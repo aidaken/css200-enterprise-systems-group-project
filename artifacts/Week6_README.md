@@ -1,0 +1,5 @@
+# Week 6 Summary
+In Week 6, our team moved from a high-level vision to a clearer definition of what the system must actually do. 
+We created a System Requirements Document for our Outlook inbox triage plugin, focusing on how the plugin supports students who feel overwhelmed by unfiltered emails. 
+The requirements explain what students need (like quickly seeing urgent messages and having emails grouped into meaningful categories such as Academics, Finance, Registration, Careers & Internships, Campus Events, and News) and what the system must do to support those needs (like rule-based filtering, a high-priority view, and user customization). 
+We also added introductory non-functional requirements to show the expected quality of the system, including performance (loading within 3 seconds), availability (99.5% uptime), and privacy/security principles (least-privilege access, FERPA-aligned handling, and no storing of email body content). Overall, Week 6 helped us lock the scope and expectations before we move into architecture and platform decisions in Week 7.
