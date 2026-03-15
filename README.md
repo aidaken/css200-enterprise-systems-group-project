@@ -12,7 +12,7 @@ Our system vision is to make Outlook more helpful for students without replacing
 
 ---
 
-My role on the team is Product Manager. In that role, I help keep the team aligned on the problem we are solving and the scope of our solution. I also help translate our vision into clear documentation, especially requirements that describe what the system must do and what students need from it. I’m responsible for making sure our deliverables are organized, readable, and grounded in real student needs, rather than becoming a random list of features.
+My role on the team is Product Manager (and GitHub Portfolio checker). In that role, I help keep the team aligned on the problem we are solving and the scope of our solution. I also help translate our vision into clear documentation, especially requirements that describe what the system must do and what students need from it. I’m responsible for making sure our deliverables are organized, readable, and grounded in real student needs, rather than becoming a random list of features.
 This repository is organized so the instructor (and future reviewers) can quickly find key course artifacts. I am using an “artifacts” section to store important documents from each week. Over time this repo will grow as we add system diagrams, requirements, and reflections.
 
 ---
